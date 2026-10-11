@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mob Head Dropper Behavior Pack",
+    "description": "Adds the Mob Head Dropper sword with guaranteed head drops for Wither Skeleton, Blaze, and Enderman.",
+    "uuid": "f2758d9b-59d9-4fd8-9a88-2284c7f8a5d0",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Mob Head Dropper Script Module",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "7c9bb4ac-90e8-4ac8-8e7e-f4242d93c8c6",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    }
+  ]
+}

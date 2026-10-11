@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "custom:mob_head_dropper_iron_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_sword"
+      },
+      "B": {
+        "item": "minecraft:ender_eye"
+      },
+      "C": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "custom:mob_head_dropper_iron",
+      "count": 1
+    }
+  }
+}

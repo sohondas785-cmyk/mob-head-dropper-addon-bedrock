@@ -1,0 +1,24 @@
+{
+  "resource_pack_name": "MobHeadDropperRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mob_head_dropper_iron": {
+      "textures": "textures/items/mob_head_dropper_iron"
+    },
+    "mob_head_dropper_diamond": {
+      "textures": "textures/items/mob_head_dropper_diamond"
+    },
+    "mob_head_dropper_netherite": {
+      "textures": "textures/items/mob_head_dropper_netherite"
+    },
+    "wither_skeleton_head": {
+      "textures": "textures/items/wither_skeleton_head"
+    },
+    "blaze_head": {
+      "textures": "textures/items/blaze_head"
+    },
+    "enderman_head": {
+      "textures": "textures/items/enderman_head"
+    }
+  }
+}
